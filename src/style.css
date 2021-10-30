@@ -1,0 +1,43 @@
+.navbar {
+  justify-content: flex-end;
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbar ul {
+  font-family: "Montserrat", sans-serif;
+  list-style: none;
+  text-align: start;
+  padding: 3px;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 25px;
+  color: rgb(0, 255, 64);
+  text-decoration: line-through;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  font-size: 15px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.work-list {
+  list-style: square;
+}
+
+.contact a {
+  color: black;
+  text-decoration: none;
+}
